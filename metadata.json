@@ -1,0 +1,9 @@
+{
+  "name": "Avishkar Bhandare | Creative Portfolio",
+  "description": "Portofolio of Avishkar Bhandare - Designing and building visually striking, user-focused digital interfaces.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
